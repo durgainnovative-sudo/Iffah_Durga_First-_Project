@@ -26,7 +26,7 @@ Gender inequality in earnings remains a critical issue. This project provides a 
 
 This project combines data from multiple sources:
 
--Eurostat API (via Eurostat):
+-Eurostat API (via Eurostat):https://ec.europa.eu/eurostat/api/dissemination/sdmx/3.0/data/dataflow/ESTAT/sdg_05_20/1.0/*.*.*.*?c[freq]=A&c[unit]=PC&c[nace_r2]=B-S_X_O&c[geo]=EU27_2020,EA21,EA20,BE,BG,CZ,DK,DE,EE,IE,EL,ES,FR,HR,IT,CY,LV,LT,LU,HU,MT,NL,AT,PL,PT,RO,SI,SK,FI,SE,IS,NO,CH,AL,EA19,EU27_2007,ME,MK,RS,TR,UK&c[TIME_PERIOD]=2002,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024&compress=false&format=json&lang=en
 
 Dataset: sdg_05_20 (Gender pay gap indicators)
 
@@ -39,7 +39,9 @@ File: earn_gr_gpgr2ag
 Contains gender pay gap by age group and sector
 
 -JSON Data File
+
 File: sdg_05_20_page_jsonstat.json
+
 Used for additional structured data extraction
 
 **❓ Research Questions**
@@ -146,7 +148,7 @@ This project is organized under a main repository with multiple branches to sepa
 
 👩‍💻**🌿 Iffah branch**
 
-**=>**Focused on Data Wrangling
+=> Focused on Data Wrangling
 
 ├── Data_Wrangling_Iffah.ipynb
 
