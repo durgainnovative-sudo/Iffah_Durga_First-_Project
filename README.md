@@ -54,13 +54,13 @@ Used for additional structured data extraction
 
 **⚙️ Methodology**
 
-**🔹 Data Collection**
+**📋 Data Collection**
 
 * Retrieved data using API requests
 
 * Loaded datasets from CSV and JSON files
 
-**🔹 Data Cleaning**
+**🧹 Data Cleaning**
 
 * Converted raw data into pandas DataFrames
 
@@ -70,7 +70,7 @@ Used for additional structured data extraction
 
 * Handled missing values
 
-**🔹 Data Analysis**
+**🛠️📊 Data Analysis**
 
 * Grouped data by year and country
 
@@ -78,7 +78,7 @@ Used for additional structured data extraction
 
 * Compared Germany with EU-wide data
 
-**🔹 Data Visualization**
+**🎨📊 Data Visualization**
 
 **📈 Average Gender Pay Gap Over Time**
 
