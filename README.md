@@ -1,4 +1,4 @@
-🤝# Iffah_Durga_First-_Project
+**🤝 Iffah_Durga_First-_Project**
 
 **📊 Gender Pay Analysis**
 
@@ -26,7 +26,7 @@ Gender inequality in earnings remains a critical issue. This project provides a 
 
 This project combines data from multiple sources:
 
--Eurostat API (via Eurostat)
+-Eurostat API (via Eurostat):
 
 Dataset: sdg_05_20 (Gender pay gap indicators)
 
@@ -44,39 +44,39 @@ Used for additional structured data extraction
 
 **❓ Research Questions**
 
-1.How has the gender pay gap changed over time in Europe?
+1. How has the gender pay gap changed over time in Europe?
 
-2.Which countries show the highest and lowest gaps?
+2. Which countries show the highest and lowest gaps?
 
-3.Is there a general trend toward equality?
+3. Is there a general trend toward equality?
 
-4.How does Germany compare to the EU average?
+4. How does Germany compare to the EU average?
 
 **⚙️ Methodology**
 
 **🔹 Data Collection**
 
-**~**Retrieved data using API requests
+* Retrieved data using API requests
 
-**~**Loaded datasets from CSV and JSON files
+* Loaded datasets from CSV and JSON files
 
 **🔹 Data Cleaning**
 
-**~**Converted raw data into pandas DataFrames
+* Converted raw data into pandas DataFrames
 
-**~**Standardized column names and formats
+* Standardized column names and formats
 
-**~**Filtered relevant columns (country, year, values)
+* Filtered relevant columns (country, year, values)
 
-**~**Handled missing values
+* Handled missing values
 
 **🔹 Data Analysis**
 
-**-**Grouped data by year and country
+* Grouped data by year and country
 
-**-**Calculated averages and trends
+* Calculated averages and trends
 
-**-**Compared Germany with EU-wide data
+* Compared Germany with EU-wide data
 
 **🔹 Data Visualization**
 
@@ -90,31 +90,31 @@ Used for additional structured data extraction
 
 **🔍 Main Findings & Insights**
 
-**=>**The gender pay gap is gradually decreasing across Europe
+=> The gender pay gap is gradually decreasing across Europe
 
-**=>**Progress is slow and inconsistent
+=> Progress is slow and inconsistent
 
-**=>**Some countries show significantly better outcomes
+=> Some countries show significantly better outcomes
 
-**=>**Germany often remains above the EU average
+=> Germany often remains above the EU average
 
 **📊 Conclusions**
 
 Although there is improvement, the gender pay gap persists across Europe. Differences between countries suggest that policies and labor market structures play an important role.
 
-🔗** Resources**
+**🔗** **Resources**
 
-**-**Eurostat Data Portal: https://ec.europa.eu/eurostat
+- Eurostat Data Portal: https://ec.europa.eu/eurostat
 
-**-**Dataset: Gender Pay Gap (sdg_05_20)
+- Dataset: Gender Pay Gap (sdg_05_20)
 
-**-**Kanban Board (e.g., Trello): https://trello.com/b/4qJRwJ29/my-first-project
+- Kanban Board (e.g., Trello): https://trello.com/b/4qJRwJ29/my-first-project
 
 **📁 Project Structure**
 
 This project is organized under a main repository with multiple branches to separate work streams.
 
-🔹 Repository
+**🔹 Repository**
 
 🤝**Iffah_Durga_First-_Project**
 
@@ -122,13 +122,13 @@ This project is organized under a main repository with multiple branches to sepa
 
 **🌳 main branch**
 
-**=>**Contains the stable base of the project
+=> Contains the stable base of the project
 
-**=>**Acts as the central repository for merged work
+=> Acts as the central repository for merged work
 
 👩‍💻**🌿 Durga branch**
 
-**=>**Focused on Gender Pay Gap Analysis
+=> Focused on Gender Pay Gap Analysis
 
 ├── Gender_Analysis_dd.ipynb
 
